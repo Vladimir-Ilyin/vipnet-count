@@ -1,0 +1,3 @@
+команда запуска
+
+xml2json.py -t xml2json -o data.json data.xml
