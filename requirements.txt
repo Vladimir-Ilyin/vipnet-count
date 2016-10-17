@@ -1,0 +1,15 @@
+cffi==1.6.0
+cryptography==1.3.2
+idna==2.1
+jtextfsm==0.3.1
+netmiko==1.0.0
+paramiko==2.0.0
+pyasn1==0.1.9
+pycparser==2.14
+pypiwin32==219
+PyYAML==3.12
+scp==0.10.2
+six==1.10.0
+unicodecsv==0.14.1
+xlrd==0.9.4
+xlwt==1.0.0
